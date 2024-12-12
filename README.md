@@ -1,2 +1,2 @@
-# project
-프로젝트 모음
+# DaedeokProject
+대덕 최종 프로젝트
